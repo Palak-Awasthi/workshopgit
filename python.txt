@@ -1,0 +1,1 @@
+Python is general purpoe object oriented programming langauge typically used in DS and ML and AI
